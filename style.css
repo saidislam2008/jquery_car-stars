@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* body {
+    background-color: black;
+} */
+
+/* p {
+    margin-top: 350px;
+    text-align: center;
+    color: white;
+}
+
+img {
+    position: absolute;
+    opacity: 0;
+    transition: 0.8s;
+}
+
+.img1 {
+    top: 385px;
+    left: 1100px;
+}
+
+.img2 {
+    top: 500px;
+    left: 350px;
+}
+
+.img3 {
+    top: 150px;
+    left: 200px;
+}
+
+.img4 {
+    top: 600px;
+    left: 925px;
+}
+
+.img5 {
+    top: 190px;
+    left: 950px;
+}
+
+.img6 {
+    top: 100px;
+    left: 600px;
+} */
+
+.background {
+    width: 100%;
+    /* height: 100vh; */
+}
+
+.car {
+    position: absolute;
+    top: 500px;
+    right: 50%;
+    transition: 5s;
+}
